@@ -44,8 +44,7 @@ htmlcov/
 .coverage.xml
 
 # Training data and generated model artifacts
-backend/data/*
-!backend/data/README.md
+backend/data/
 backend/artifacts/
 backend/models/
 backend/results/
