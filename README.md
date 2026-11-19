@@ -2,7 +2,7 @@
 
 Tranzacta is a transaction-risk scoring project built around synthetic mobile-money transactions. A React interface submits transaction details to a FastAPI service, which validates the input, engineers model features, and returns a fraud-risk estimate from a locally generated Keras model.
 
-**Live previews:** [Estatora](https://estatora.onrender.com/) · [VoltCast](https://voltcast.onrender.com/) · [Tranzacta](https://tranzacta.onrender.com/)
+**Live preview:** [Tranzacta](https://tranzacta.onrender.com/)
 
 The score is an educational model estimate, not proof of fraud, a reason by itself to block a payment, or a substitute for investigation, fraud controls, or regulatory obligations.
 
